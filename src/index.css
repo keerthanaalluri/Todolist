@@ -1,0 +1,16 @@
+p {
+  text-align: center;
+  color: red;
+    content: "This text will be added at the beginning of the element"
+ }
+
+body {
+  
+  padding: 50px;
+  background-color: #93c800;
+  font-family: sans-serif;
+}
+#container {
+  display: flex;
+  justify-content: center;
+}
