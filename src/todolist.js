@@ -42,7 +42,7 @@ class TodoList extends Component {
       }
   render() {
     return (
-      console.log("print");
+      
       <div className="todoListMain">
         <div className="header">
           <form onSubmit={this.addItem}>
